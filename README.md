@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bettkipkemoi
+- 👋 Hi, I’m @bettkipkemoi, a Bsc. Statistics graduate (University of Nairobi).
 - 👀 I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently learning SQL and advancing Python Skills.
 - 💞️ I’m looking to collaborate on D3js.

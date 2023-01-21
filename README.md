@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @bettkipkemoi, a Bsc. Statistics graduate (University of Nairobi).
-- 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning SQL and advancing Python Skills.
-- 💞️ I’m looking to collaborate on D3js.
-- 📫 How to reach me: twitter:- @bettkipkemoo
+- 👀 A freelance data analyst and research writer.
+- 🌱 Currently learning Streamlit and Ruby on Rails.
+- 💞️ Looking to collaborate on D3js.
+- 📫 How to reach me: 
+  -                    twitter:- twitter.com/bettkipkemoo
+  -                   linkedin:- https://www.linkedin.com/in/bett-kipkemoi-7bab94a3/
 
 <!---
 bettkipkemoi/bettkipkemoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

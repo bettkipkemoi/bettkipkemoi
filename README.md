@@ -3,8 +3,8 @@
 - 🌱 Currently learning Streamlit and Ruby on Rails.
 - 💞️ Looking to collaborate on D3js.
 - 📫 How to reach me: 
-  -                    twitter:- twitter.com/bettkipkemoo
-  -                   linkedin:- https://www.linkedin.com/in/bett-kipkemoi-7bab94a3/
+  -                    twitter.com/bettkipkemoo
+  -                    https://www.linkedin.com/in/bett-kipkemoi-7bab94a3/
 
 <!---
 bettkipkemoi/bettkipkemoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

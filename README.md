@@ -4,7 +4,7 @@ With a background in statistics (BSc. Statistics, University of Nairobi), I boas
 ## Skills
 - data engineering, data science, analytics, visualizations, prediction, machine learning and statistics
 - DevOps {version control, CI/CD, orchestration and containerization, Infrastructure as Code (IaC), Monitoring and Logging, Cloud Platforms, & Configuration management}
-- natural language processing, AI & prompt engineering
+- NLP, AI & prompt engineering
 - technical writing, report writing, medical statistics, biostatistics, proofreading and editing
 
 ## Statistical tools:

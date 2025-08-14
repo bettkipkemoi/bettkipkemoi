@@ -1,15 +1,47 @@
-# Brief Intro
-With a background in statistics (BSc. Statistics, University of Nairobi), and currently undertaking Master of Science (MS) in Data Science at the Open University of Kenya, I boast of vast data science, data engineering and stastistics knowledge. Not only do I excel in data collection, data cleaning & preparation, exploration data analysis (EDA), visualizations, modelling, prediction and forecasting but also great SQL and web scraping skills. I am a self-taught DevOps engineer, something I really like doing. I am love solving problems analytically. In summary, my skills include but are not limited to:
+# 👋 Hi, I'm Bett Kipkemoi
 
-## Skills
-- design and analysis of algorithms, statistical computing, data structures, data engineering, data science, data analytics, visualizations, prediction, machine learning and statistics
-- DevOps {version control, CI/CD, orchestration and containerization, Infrastructure as Code (IaC), Monitoring and Logging, Cloud Platforms, & Configuration management}
-- NLP, AI & prompt engineering
-- technical writing, report writing, medical statistics, biostatistics, proofreading and editing
+With a strong foundation in statistics (BSc. Statistics, University of Nairobi) and currently pursuing an MSc in Data Science at the Open University of Kenya, I bring extensive experience in data science, analytics, and DevOps.
 
-## Statistical tools:
- - R, Python, Tableau, Power BI, Matlab, Eviews, SPSS, flexMIRT, JMP,  SAS, STATA, Minitab, Rapid Miner, SQL
-## DevOps: 
-- Git, Jenkins, Travis CI, AWS & Azure, Kubernetes, Terraform, Ansible, Linux, Docker, Prometheus, Grafana & ELK Stack
-## Programming Languages:
-- Go, Python 
+---
+
+## 🧑‍💻 Skills & Expertise
+
+- **Data Science & Analytics:**  
+  - Algorithm design & analysis, statistical computing, data structures  
+  - Data engineering, analytics, visualization, prediction & forecasting  
+  - Machine learning, deep learning, statistics, NLP, AI & prompt engineering
+
+- **DevOps:**  
+  - Version control (Git), CI/CD (Jenkins, Travis CI)  
+  - Orchestration & containerization (Kubernetes, Docker)  
+  - Infrastructure as Code (Terraform, Ansible)  
+  - Monitoring & Logging (Prometheus, Grafana, ELK Stack)  
+  - Cloud platforms (AWS, Azure), Linux, configuration management
+
+- **Technical Communication:**  
+  - Technical writing, report writing, proofreading, editing  
+  - Medical statistics, biostatistics
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Statistical & Data Tools:**  
+  R, Python, Tableau, Power BI, Matlab, Eviews, SPSS, flexMIRT, JMP, SAS, STATA, Minitab, RapidMiner, SQL
+
+- **Programming Languages:**  
+  Go, Python
+
+- **DevOps & Cloud:**  
+  Git, Jenkins, Travis CI, AWS, Azure, Kubernetes, Terraform, Ansible, Linux, Docker, Prometheus, Grafana, ELK Stack
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/bettkipkemoi)
+- [GitHub](https://github.com/bettkipkemoi)
+
+---
+
+> “Making informed decisions using data.”  

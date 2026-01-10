@@ -27,10 +27,10 @@ With a strong foundation in statistics (BSc. Statistics, University of Nairobi) 
 ## 🛠️ Tools & Technologies
 
 - **Statistical & Data Tools:**  
-  R, Python, Tableau, Power BI, Matlab, Eviews, SPSS, flexMIRT, JMP, SAS, STATA, Minitab, RapidMiner, SQL
+  Tableau, Power BI, Eviews, SPSS, flexMIRT, JMP, Minitab, RapidMiner
 
 - **Programming Languages:**  
-  Go, Python
+  Go, R, Python, SQL, SAS, STATA, Fortran, C++, TypeScript, Matlab
 
 - **DevOps & Cloud:**  
   Git, Jenkins, Travis CI, AWS, Azure, Kubernetes, Terraform, Ansible, Linux, Docker, Prometheus, Grafana, ELK Stack

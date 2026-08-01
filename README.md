@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bett Kipkemoi
 
 Data scientist with 5+ years of experience turning large, messy datasets into clear, decision-ready insights across healthcare, research, and client-facing projects. Skilled in SQL, Python, and R for data cleaning, statistical analysis, and reporting, with a track record of building dashboards and A/B testing frameworks that stakeholders actually use. Comfortable working end-to-end, from ETL and data quality checks through to visualization and presenting findings to non-technical audiences.
+
 ---
 
 ## 🧑‍💻 Skills & Expertise
